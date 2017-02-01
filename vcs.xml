@@ -10,8 +10,12 @@
           <option name="url" value="https://github.com/otor/js-dev-env-demo-api.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/otor/react-boilerplate.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Dropbox/pluralsight - js env" />
+    <option name="cloneParentDir" value="$USER_HOME$/Dropbox/web development" />
   </component>
 </application>
